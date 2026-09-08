@@ -9,7 +9,7 @@ if (!admin.apps.length) {
   });
 }
 
-const DISTRICT_NAME = "Dhaka"; 
+const DISTRICT_NAME = "Pabna"; 
 
 async function checkWeatherAndNotify() {
   try {
